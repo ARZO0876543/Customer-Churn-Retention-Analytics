@@ -68,7 +68,7 @@ An interactive **Power BI dashboard** was developed to visualize customer churn 
 
 ### Dashboard Preview
 
-![Power BI Dashboard](Images/dashboard.png)
+![Power BI Dashboard](Power BI Report/telecom_churn_analysis-1.png)
 
 ---
 
